@@ -1,10 +1,12 @@
 import sys
 
-
+'''
+Provided by HackerRank '''
 arr = []
-for arr_i in xrange(6):
-    arr_temp = map(int,raw_input().strip().split(' '))
+for arr_i in range(6):
+    arr_temp = map(int,input().strip().split(' '))
     arr.append(arr_temp)
+''''''
 
 hour = []
 a = x = 0
