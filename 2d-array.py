@@ -22,4 +22,4 @@ while x < 4:
     a = 0
     b = 1
 
-print max(hour)
+print(max(hour))
